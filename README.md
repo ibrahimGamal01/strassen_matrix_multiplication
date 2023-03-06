@@ -17,4 +17,4 @@ The output of the code is the resulting matrix obtained by multiplying the two i
 
 ## Limitations
 
-This code is only designed to work with 2x2 matrices. While Strassen's algorithm can be used for matrices of arbitrary size, this code does not implement that functionality. Finally, the code does not implement any error checking or input validation.
+This code is only designed to work with 2x2 matrices. While Strassen's algorithm can be used for matrices of arbitrary size, this code does not implement that functionality. Additionally, the code only works with integer values between 1 and 20. Finally, the code does not implement any error checking or input validation.
